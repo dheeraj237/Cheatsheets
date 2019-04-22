@@ -1,7 +1,5 @@
 # Meteor
 
-see also https://gist.github.com/hamxiaoz
-
 ## Guide
 Kadira Academy
 - _ [routing guide: flow router](https://kadira.io/academy/meteor-routing-guide) (don't do data management and auth on route level)
