@@ -30,11 +30,6 @@
     * [JavaScript Lib](javascript_lib.md)
     * [CoffeeScript](coffeescript.md)
     * [CoffeeScript to ES6 cheatsheet](coffeescript_to_es6.md)
-* Angular.js
-    * [Angular](Angular.md)
-    * [Angular Cookbook](Angular_Cookbook.md)
-    * [Angular Mistakes I Made](Angular_MIM.md)
-    * [Angular 1.x](Angular_js_1.x.md)
 * React.js
     * [React.js](reactjs.md)
 * Node
@@ -52,7 +47,6 @@
     * [MongoDB](mongodb.md)
     * [Digital Ocean](DigitalOcean.md)
     * [UI](ui_domain.md)
-    * [Sketch](sketch.md)
     * [Web Dev Resources](web_dev_resources.md)
 * Lang
     * [Ruby](ruby.md)
@@ -61,8 +55,6 @@
     * [Editor: VS Code](editor_vs_code.md)
     * [Editor: Vim](editor_vim.md)
     * [Editor: Sublime](editor_sublime.md)
-    * [Editor: Atom](editor_atom.md)
     * [Windows](development_tools.md)
     * [Git](git.md)
     * [Linux / Bash](linux_bash.md)
-    * [Mac](mac.md)
